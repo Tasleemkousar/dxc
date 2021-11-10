@@ -5,25 +5,25 @@ function NameList() {
     const persons = [
         {
             id: 1,
-            name: 'abdul',
+            name: 'Tasleem',
             age: 30,
             skill: 'react'
         },
         {
             id: 1,
-            name: 'ansari',
+            name: 'kousar',
             age: 30,
             skill: 'flutter'
         },
         {
             id: 1,
-            name: 'tanveer',
+            name: 'shaik',
             age: 30,
             skill: 'java'
         },
         {
             id: 1,
-            name: 'pran',
+            name: 'Thalamus',
             age: 30,
             skill: 'spring'
         }

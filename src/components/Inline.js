@@ -11,7 +11,8 @@ const heading = {
 function Inline() {
     return (
         <div>
-            <h1 style = {heading}>Heading</h1>
+            <h1 className='error'>inline error</h1> {/*error style is locally scoped no need to import */}
+            <h1 style={heading}>Inline heading</h1>
         </div>
     )
 }

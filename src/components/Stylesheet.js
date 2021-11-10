@@ -6,7 +6,7 @@ function Stylesheet(props) {
     let className = props.enabled ? 'primary' : ''
     return (
         <div>
-            <h1 className = {`${className} font-xl`}> welcome to style sheets</h1>
+            <h1 className = {`${className} font-xl`}> welcome to dxc technology</h1>
         </div>
     )
 }
