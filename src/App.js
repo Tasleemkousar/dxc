@@ -1,14 +1,14 @@
 import './App.css';
-import PortalDemo from './components/portals/PortalDemo';
-import FrParentInput from './components/refs/FrParentInput';
+import ClassCounter from './components/hooks/ClassCounter';
+import HookCounter from './components/hooks/HookCounter';
+
 
 
 
 function App() {
   return (
     <div className="App">
-    <FrParentInput/>
-    <PortalDemo/>
+    <HookCounter/>
     </div>
   );
 }
